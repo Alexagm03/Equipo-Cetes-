@@ -50,6 +50,9 @@ Los plazos típicos de los CETES son 28, 91, 182 y 364 días. El inversionista p
    - Las tasas de rendimiento de los CETES dependen del entorno económico y de las tasas de referencia del Banco de México. Si Banxico sube sus tasas, los rendimientos de los CETES también suelen subir.
    - Los CETES no pagan intereses periódicos, su rendimiento se calcula al momento de la compra por el precio pagado respecto al valor nominal.
 
+## ¿Cómo se valúan? 
+El precio de un CETE se puede calcular a partir de su taza de rendimiento o su taza de descuento, dependiendo de los décimales el precio final puede variar ligeramente. 
+
 ## Ventajas
 
 1- Es un inversión segura, regulada por la CNBV (Comision Nacional Bancaria y de Valores) y la CONDUCEF (Comisión Nacional para la Proteccióon y Defensa de los usuarios de servicios financieros. 
@@ -64,3 +67,9 @@ Los plazos típicos de los CETES son 28, 91, 182 y 364 días. El inversionista p
 3- Si tu forma de pago fue domiciliada no puedes hacer una venta anticipada 
 4- Si haces una venta anticipada deberás esperar aproximadamente para ver reflejado tu dinero
 
+## Aplicación de interés simple en CETES 
+Tanto el interés simple como el rendimiento de lso CETES crecen de forma lineal en función del tiempo. Nohay capitalización o reinverisón de intereses a lo largo del periodo. 
+Otra característica en común es que en ambos hay u valor inicial o precio de compra, un valor final o valor nominal, una tasa de interés o rendimientos y un plazo de tiempo, solo que en CETES ya está establecido los periodos en días, con sus respectivas tasas variables. 
+
+# EJERCICIO PRÁCTICO DE CETES CON INTERÉS SIMPLE 
+Con el siguiente código puede cargar las funciones para llevar a cabo los ejercicios 
