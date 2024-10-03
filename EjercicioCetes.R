@@ -5,7 +5,7 @@
 #Valor futuro con CETES: 
 
 valorFinalSimple=function(VA,r,t){
-  VF=VA*(1+(r*t))
+  VF=(VA*r*t)
   
   return(VF)
 }
