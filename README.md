@@ -73,3 +73,32 @@ Otra característica en común es que en ambos hay u valor inicial o precio de c
 
 # EJERCICIO PRÁCTICO DE CETES CON INTERÉS SIMPLE 
 Con el siguiente código puede cargar las funciones para llevar a cabo los ejercicios 
+
+Con el siguiente código , puede usted cargar las funciones relaticas a los cálculos de interés simple: 
+```{r}
+source("https://raw.githubusercontent.com/Alexagm03/Equipo-Cetes-/refs/heads/main/EjercicioCetes.R")
+```
+A continuación se dan ejemplos del uso de las formulas correspondientes: 
+
+## Arturo Meza quiere invertir en CETES pero no sabe cual es la mejor opción
+# a) Invertir $10,000.00 a un plazo de un año con interés del 10.38%
+Para este caso se tienen los siguientes datos: 
+
+$VA$=$10,000.00
+$r$= 10.38% menusal
+$t$= 1 año 
+
+Se realizan los cálculos
+```{r}
+# Creamos objetos con los valores de entrada: 
+valorActual=10000
+tasaPeriodo=0.1038
+nPeriodos=1
+# Calculamos el valor futuro: 
+valorFuturo=valorFinalSimple(VA=valorActual,r=tasaPeriodo,t=nPeriodos)
+#Imprimir el resultado:
+valorFuturo
+```
+
+# b) Invertir $10,000.00 a un plazo de 3 meses con interés del 10.47%
+
