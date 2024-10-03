@@ -13,11 +13,11 @@ La subasta de CETES en México es el proceso mediante el cual el gobierno, a tra
 Casi todos los martes, el banco de México organiza una subasta mediante la cual pone los CETES a plazos de 28, 91, 182 y 364 dias, dias antes de esto, se anuncia la fecha y la cantidad de CETES que seran ofertados
 
 ## ¿Quiénes participan? 
-Los participantes principales son fondos de inversiones, bancos, aseguradoras y grandes empresarios, pero tambien los individuos pueden participar mediante la plataforma CETESDirencto, la cual es una buena herramienta para comprar CETES sin participar directamente en una subasta, la unica desventaja es que no permite la opción de proponer tasas de interés.
+Los participantes principales son fondos de inversiones, bancos, aseguradoras y grandes empresarios, pero tambien los individuos pueden participar mediante la plataforma CETES Directo, la cual es una buena herramienta para comprar CETES sin participar directamente en una subasta, la unica desventaja es que no permite la opción de proponer tasas de interés.
 
 ## ¿Qué tipos de subasta existen? 
 Las subastas de CETES se dividen en dos tipos: 
-•	Competitiva: Los inversionistas ofrecen una tasa de interés (rendimiento) a la cual están dispuestos a comprar. Comunmente los inversionistas que tienen las posturas más bajas son los que son aceptadas primero. 
+•	Competitiva: Los inversionistas ofrecen una tasa de interés (rendimiento) a la cual están dispuestos a comprar. Comúnmente los inversionistas que tienen las posturas más bajas son los que son aceptadas primero. 
 •	No competitiva: Esta ocurre cuando los inversionistas solo indican la cantidad de CETES que desean comprar, la tasa de interés que se les asigna es la resultante del promedio de la subasta.
 
 ## ¿Cómo se determinan los resultados?
@@ -55,10 +55,10 @@ El precio de un CETE se puede calcular a partir de su taza de rendimiento o su t
 
 ## Ventajas
 
-1- Es un inversión segura, regulada por la CNBV (Comision Nacional Bancaria y de Valores) y la CONDUCEF (Comisión Nacional para la Proteccióon y Defensa de los usuarios de servicios financieros. 
+1- Es una inversión segura, regulada por la CNBV (Comision Nacional Bancaria y de Valores) y la CONDUCEF (Comisión Nacional para la Protección y Defensa de los usuarios de servicios financieros. 
 2- Flexibilidad para elegir el monto y el plazo 
 3- Puedes invertir desde $100.00 - $10,000,000.00
-4- Puedes solicitiar una venta anticipada sin penalizaciones 
+4- Puedes solicitar una venta anticipada sin penalizaciones 
 
 ## Desventajas
 
@@ -68,7 +68,7 @@ El precio de un CETE se puede calcular a partir de su taza de rendimiento o su t
 4- Si haces una venta anticipada deberás esperar aproximadamente para ver reflejado tu dinero
 
 ## Aplicación de interés simple en CETES 
-Tanto el interés simple como el rendimiento de lso CETES crecen de forma lineal en función del tiempo. Nohay capitalización o reinverisón de intereses a lo largo del periodo. 
+Tanto el interés simple como el rendimiento de los CETES crecen de forma lineal en función del tiempo. No hay capitalización o reinversión de intereses a lo largo del periodo. 
 Otra característica en común es que en ambos hay u valor inicial o precio de compra, un valor final o valor nominal, una tasa de interés o rendimientos y un plazo de tiempo, solo que en CETES ya está establecido los periodos en días, con sus respectivas tasas variables. 
 
 # EJERCICIO PRÁCTICO DE CETES CON INTERÉS SIMPLE 
