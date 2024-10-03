@@ -85,7 +85,7 @@ A continuación se dan ejemplos del uso de las formulas correspondientes:
 Para este caso se tienen los siguientes datos: 
 
 $VA$=$10,000.00
-$r$= 10.38% menusal
+$r$= 10.38% anual
 $t$= 1 año 
 
 Se realizan los cálculos
@@ -101,4 +101,20 @@ valorFuturo
 ```
 
 # b) Invertir $10,000.00 a un plazo de 3 meses con interés del 10.47%
+Para este caso se tienen los siguientes datos: 
 
+$VA$=$10,000.00
+$r$= 10.47% anual
+$t$= 3 meses 
+
+Se realizan los cálculos
+```{r}
+# Creamos objetos con los valores de entrada: 
+valorActual=10000
+tasaPeriodo=0.1047
+nPeriodos=.25
+# Calculamos el valor futuro: 
+valorFuturo=valorFinalSimple(VA=valorActual,r=tasaPeriodo,t=nPeriodos)
+#Imprimir el resultado:
+valorFuturo
+```
